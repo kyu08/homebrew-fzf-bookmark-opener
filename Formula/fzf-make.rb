@@ -1,8 +1,8 @@
 class FzfMake < Formula
   desc "The command line tool that execute make command using fzf."
   homepage "https://github.com/kyu08/fzf-make"
-  url "https://github.com/kyu08/fzf-make/releases/download/v0.6.0/fzf-make"
-  sha256 "af4c928ea4e4978d5285ad241fd76def6ddefb40421c0d7624ca1f9bbece0975"
+  url "https://github.com/kyu08/fzf-make/releases/download/v0.7.0/fzf-make"
+  sha256 "b99d1028669a2993c97d049a7925afa23aea213b292c5fd21e12e19866eeb69a"
   license "MIT"
   depends_on "bat"
 
