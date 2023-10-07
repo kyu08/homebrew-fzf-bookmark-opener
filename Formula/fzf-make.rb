@@ -1,5 +1,5 @@
 class FzfMake < Formula
-  desc "The command line tool that execute make command using fzf."
+  desc "A command line tool that executes make target using fuzzy finder with preview window."
   homepage "https://github.com/kyu08/fzf-make"
   url "https://github.com/kyu08/fzf-make/releases/download/v0.7.0/fzf-make"
   sha256 "b99d1028669a2993c97d049a7925afa23aea213b292c5fd21e12e19866eeb69a"
