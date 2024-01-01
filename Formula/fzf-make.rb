@@ -8,7 +8,7 @@ class FzfMake < Formula
   depends_on "rust" => :build
 
   def install
-    system "cargo", "install", "--root", prefix, "--path", "."
+    system "cargo", "install", "--locked", "--root", prefix, "--path", "."
 
     message = <<-EOS
 ===============================================================================================
