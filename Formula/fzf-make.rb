@@ -28,12 +28,12 @@ $$/      $$$$$$$$/ $$/             $$/  $$/  $$/  $$$$$$$/ $$/   $$/  $$$$$$$/
 🎉 Thank you for installing fzf-make!
 
 ⭐️ If you like it, please leave a star on GitHub.
-https://github.com/kyu08/fzf-make
+   https://github.com/kyu08/fzf-make
 
 👀 Remember to watch the repository to be notified of new releases.
 
-🐛 If you have a feature request or find a bug, please create issue. I'll respond soon.
-https://github.com/kyu08/fzf-make/issues
+🐛 If you have a feature request or find a bug, please create an issue. I'll respond soon.
+   https://github.com/kyu08/fzf-make/issues
 
 
 ===============================================================================================
