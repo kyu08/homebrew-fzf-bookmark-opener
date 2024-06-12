@@ -31,6 +31,10 @@ $$/      $$$$$$$$/ $$/             $$/  $$/  $$/  $$$$$$$/ $$/   $$/  $$$$$$$/
    https://github.com/kyu08/fzf-make
 
 👀 Remember to watch the repository to be notified of new releases.
+https://github.com/kyu08/fzf-make
+
+📓 Release notes are here.
+https://github.com/kyu08/fzf-make/releases
 
 🐛 If you have a feature request or find a bug, please create an issue. I'll respond soon.
    https://github.com/kyu08/fzf-make/issues
