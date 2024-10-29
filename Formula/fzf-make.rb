@@ -1,8 +1,8 @@
 class FzfMake < Formula
   desc "A command line tool that executes make target using fuzzy finder with preview window."
   homepage "https://github.com/kyu08/fzf-make"
-  url "https://github.com/kyu08/fzf-make/archive/refs/tags/v0.36.0.tar.gz"
-  sha256 "504807fb6ac38bf10c66030ea4be26f500c46a8b61c79088ed5bd14d206bce80"
+  url "https://github.com/kyu08/fzf-make/archive/refs/tags/v0.37.0.tar.gz"
+  sha256 "3a0ed7ead00dbaa1eefd2358fe6e5ddf53b01dff700007e2f4f7dd76f5c86c66"
   license "MIT"
   depends_on "bat"
   depends_on "rust" => :build
